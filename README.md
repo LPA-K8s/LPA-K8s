@@ -6,16 +6,22 @@ My name is **Lucas Pedro Américo** and I am focused on DevOps and Kubernetes pr
 
 ### 🔧 Technologies & Tools
 
-<!-- Badges from Shields.io -->
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-8a7a6e?style=flat-square&labelColor=342e2b&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Tools-Docker-8a7a6e?style=flat-square&labelColor=342e2b&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/CI%2FCD-GitLab-8a7a6e?style=flat-square&labelColor=342e2b&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-8a7a6e?style=flat-square&labelColor=342e2b&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-8a7a6e?style=flat-square&labelColor=342e2b&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-8a7a6e?style=flat-square&labelColor=342e2b&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloud-Azure-8a7a6e?style=flat-square&labelColor=342e2b&logo=microsoft-azure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloud-Cloudflare-8a7a6e?style=flat-square&labelColor=342e2b&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-8a7a6e?style=flat-square&labelColor=342e2b&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-8a7a6e?style=flat-square&labelColor=342e2b&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Code-Java-8a7a6e?style=flat-square&labelColor=342e2b&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Code-Node.js-8a7a6e?style=flat-square&labelColor=342e2b&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-8a7a6e?style=flat-square&labelColor=342e2b&logo=typescript&logoColor=white)
 
 ### 📈 GitHub Stats
 
-<!-- GitHub stats cards generated automatically based on your username (LPA-K8s) -->
 <p align="left">
   <a href="https://github.com/LPA-K8s">
     <img src="https://github-readme-stats.vercel.app/api?username=LPA-K8s&show_icons=true&hide_border=true&theme=radical" alt="LPA-K8s's GitHub Stats" />
