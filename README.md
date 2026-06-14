@@ -1,4 +1,4 @@
-<img src="banner_ext.png" alt="Lucas P Américo - DevOps Projects and Some Cool Stuff" width="100%">
+<img src="banner.png" alt="Lucas P Américo - DevOps Projects and Some Cool Stuff" width="100%">
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
